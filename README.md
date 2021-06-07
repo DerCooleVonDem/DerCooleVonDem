@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/avatars/674226725122736148/1ce28b738db4fbf9bee4d7ee5125fe7e.webp?size=128" align="center" alt="Profile Picture" />
  <h2 align="center">DerCooleVonDem</h2>
-**Views:** ![visitors](https://visitor-badge.glitch.me/badge?page_id=DerCooleVonDem.visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=DerCooleVonDem.visitor-badge)
 </p>
 <h4> What i currently do: </h4>
 - Working on the Kingbuild.de Network
