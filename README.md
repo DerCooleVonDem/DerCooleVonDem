@@ -4,11 +4,14 @@
 </p>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DerCooleVonDem.visitor-badge)
 <h4> What i currently do: </h4>
-- Working on the Kingbuild.de Network
+- Working on the Kingbuild.de Network 
+<br>
 - Pocketmine WorldEdit
+<br>
 - Pocketmine Vanilla World Generator
+<br>
 - Other Vanilla Fixes for PMMP
-
+<br>
 <p align="center">
 	<img align="" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
 </p>
