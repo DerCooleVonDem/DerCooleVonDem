@@ -1,26 +1,19 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/avatars/674226725122736148/1ce28b738db4fbf9bee4d7ee5125fe7e.webp?size=128" align="center" alt="Profile Picture" />
- <h2 align="center">DerCooleVonDem</h2>
-</p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DerCooleVonDem.visitor-badge)
-<h4> What i currently do: </h4>
-- Working on the Kingbuild.de Network 
-<br>
-- Pocketmine WorldEdit
-<br>
-- Pocketmine Vanilla World Generator
-<br>
-- Other Vanilla Fixes for PMMP
-<br>
-<p align="center">
-	<img align="" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
+ <h2 align="center">DerCooleVonDem</h2> 
 </p>
 
+<img align="" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
 
-<br>
+<h3>What i currently do:</h3>
+
+- Working on Kingbuild.de
+- Working on a Pocketmine Async World Edit
+- Working on a Pocketmine Vanilla World Generator
+
 <h3>🛠 My Languages</h3>
 
-- PHP (most) | Java | Javascript | C# | Python 
+- PHP (most) | Java | Javascript | C# | Python
 
 <br>
 
@@ -31,6 +24,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerCooleVonDem&layout=compact&text_color=daf7dc&bg_color=151515)
-
 
 
