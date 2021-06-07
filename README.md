@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/avatars/674226725122736148/1ce28b738db4fbf9bee4d7ee5125fe7e.webp?size=128" align="center" alt="Profile Picture" />
- <h2 align="center">DerCooleVonDem</h2> 
+ <h1 align="center">DerCooleVonDem</h1> 
 </p>
 
 <img align="" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
