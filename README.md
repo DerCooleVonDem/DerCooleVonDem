@@ -7,9 +7,7 @@
 
 <h3>What i currently do:</h3>
 
-- Working on Kingbuild.de
-- Working on a Pocketmine Async World Edit
-- Working on a Pocketmine Vanilla World Generator
+- Working on NexusMC.net
 
 <h3>🛠 My Languages</h3>
 
