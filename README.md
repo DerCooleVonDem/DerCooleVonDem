@@ -7,11 +7,11 @@
 
 <h3>What i currently do:</h3>
 
-- Working on NexusMC.net
+- Working on my own Gameengine called VoxoEngine
 
 <h3>🛠 My Languages</h3>
 
-- PHP (most) | Java | Javascript | C# | Python
+- PHP | Java | Javascript | C# (most) | Python
 
 <br>
 
