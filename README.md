@@ -11,7 +11,7 @@
 
 <h3>🛠 My Languages</h3>
 
-- PHP | Java | Javascript | C# (most) | Python
+- PHP | Java | Javascript | C# (most) | Python | Kotlin
 
 <br>
 
