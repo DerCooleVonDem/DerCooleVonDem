@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.discordapp.com/avatars/674226725122736148/1ce28b738db4fbf9bee4d7ee5125fe7e.webp?size=128" align="center" alt="Profile Picture" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/75242580" align="center" alt="Profile Picture" />
  <h1 align="center">DerCooleVonDem</h1> 
 </p>
 
