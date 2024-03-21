@@ -7,11 +7,11 @@
 
 <h3>What i currently do:</h3>
 
-- Working on my own Gameengine called VoxoEngine
+- Working on Giganilla
 
 <h3>🛠 My Languages</h3>
 
-- PHP | Java | Javascript | C# (most) | Python | Kotlin
+- PHP | Java | Javascript | C# (most) | Python | Kotlin | C++ | Typescript | SQL | HTML | CSS | TAILWIND-CSS
 
 <br>
 
