@@ -7,7 +7,7 @@
 
 <h3>What i currently do:</h3>
 
-- Working on Giganilla
+- Working on llg-plan-v2
 
 <h3>🛠 My Languages</h3>
 
